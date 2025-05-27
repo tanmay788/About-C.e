@@ -7,7 +7,7 @@
 <h2> computer engineering combines electrical engineering and computers science to design, develop,and maintain computer hardware and software system. It involves understanding thr interplay  between hardware components and software functaionality, encompasing areas like computer architeccture circuit design and software integration. </h2>
 
 </p> <p>
-<b> <big> this course provides you </p> </b> 
+<b> <big> this course provides you
 
 <b>  <u> Hardware Design </b> 
 <p> 
