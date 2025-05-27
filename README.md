@@ -17,4 +17,4 @@
 
 <p>   <b><u>  Areas of specializat1ion </u>  </b>
 
-<p> <b> <u> <h1> Bridges hardware and software </b> </h1> </u> 
+<p> <b> <u>  Bridges hardware and software </b>  </u> 
