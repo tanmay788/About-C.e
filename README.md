@@ -18,4 +18,4 @@
 <p>   <b><u>  Areas of specialization </u>  </b>
 
 <p> <b> <u>  Bridges hardware and software   </u> <p>
-<img src="software.jpg" width="250x" height="200">
+<img src="C:\Users\td295\software.jpg" width="250x" height="200">
