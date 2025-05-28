@@ -10,7 +10,7 @@
 <b> <big>  <font color="green"> this course provides you </font><p>
 
 <b>  <u> <font color="red"> Hardware Design </font> <p>
-<img src=""
+
 <img src="https://intechhouse.com/wp-content/uploads/2023/07/new-41-1024x630.jpg" width="300" height="250">
 <p> 
 <p>
