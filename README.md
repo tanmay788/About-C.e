@@ -12,7 +12,7 @@
 <b>  <u> <font color="red"> Hardware Design </font>
 <p> 
 <p>
- <b> Software design  </b>
+ <b> <font color="red"> Software design  </font></b>
  <u> <p>  <b> Networking </b>
 
 <p>   <b><u>  Areas of specialization </u>  </b>
