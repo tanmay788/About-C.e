@@ -13,11 +13,11 @@
 <p> 
 <p>
  <b> <font color="red"> Software design  </font></b>
- <u> <p>  <b> Networking </b>
+ <u> <p>  <b> <font color="red"> Networking </font> </b>
 
-<p>   <b><u>  Areas of specialization </u>  </b>
+<p>   <b><u> <font color="red"> Areas of specialization </font> </u>  </b>
 
-<p> <b> <u>  Bridges hardware and software   </u> <p>
+<p> <b> <u> <font color="red"> Bridges hardware and software </font>   </u> <p>
 <p> <p><p><p>
 
 <img src="https://savvycomsoftware.com/wp-content/uploads/2024/05/future-of-software-engineering-4.jpg" width="500" height="450"> 
