@@ -18,4 +18,6 @@
 <p>   <b><u>  Areas of specialization </u>  </b>
 
 <p> <b> <u>  Bridges hardware and software   </u> <p>
-<img src="C:\Users\td295\Pictures.jpg" width="250x" height="200">
+<p> <p><p><p>
+
+<img src="https://savvycomsoftware.com/wp-content/uploads/2024/05/future-of-software-engineering-4.jpg" width="500" height="450">
