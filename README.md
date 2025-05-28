@@ -20,4 +20,6 @@
 <p> <b> <u>  Bridges hardware and software   </u> <p>
 <p> <p><p><p>
 
-<img src="https://savvycomsoftware.com/wp-content/uploads/2024/05/future-of-software-engineering-4.jpg" width="500" height="450">
+<img src="https://savvycomsoftware.com/wp-content/uploads/2024/05/future-of-software-engineering-4.jpg" width="500" height="450"> 
+<p> <p>
+
