@@ -9,7 +9,7 @@
 </p> <p>
 <b> <big>  <font color="green"> this course provides you </font><p>
 
-<b>  <u> Hardware Design
+<b>  <u> <font color="red"> Hardware Design </font>
 <p> 
 <p>
  <b> Software design  </b>
